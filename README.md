@@ -1,8 +1,8 @@
-### unidad-numero-III.-LP
+### Unidad-numero-III.-LP
 
 
 Este proyecto consiste en el desarrollo de un Sistema de Gestión de Productos en C#, diseñado bajo el paradigma de Programación Orientada a Objetos para administrar inventarios de forma segura y eficiente.
-## Sus pilares fundamentales son:
+# Sus pilares fundamentales son:
 Encapsulación Robusta: Protege la integridad de los datos mediante atributos privados y validaciones estrictas que impiden valores imposibles, como precios o cantidades de stock negativas.
 
 Gestión de Colecciones: Implementa una clase Almacen que utiliza arreglos para almacenar múltiples productos, permitiendo realizar operaciones de registro, búsqueda y listado.
